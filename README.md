@@ -3,9 +3,9 @@ BANDIGAN, DUSTIN JOSH
 
 | Image Size  | Number of Pixels | Average Execution Time |
 | ----------- | ---------------: | ---------------------: |
-| 10 × 10     |              100 |     result |
-| 100 × 100   |           10,000 |     result |
-| 1000 × 1000 |        1,000,000 |     result |
+| 10 × 10     |              100 |     0.447 microseconds |
+| 100 × 100   |           10,000 |     55.657 microseconds |
+| 1000 × 1000 |        1,000,000 |     5139.610 microseconds |
 
 
 
